@@ -33,7 +33,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk,hidden",
                             "supports": "java:8",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "1.0"
                         },
@@ -53,7 +53,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk,hidden",
                             "supports": "java:8",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "1.1"
                         },
@@ -73,7 +73,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk,hidden",
                             "supports": "java:8",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "1.2"
                         },
@@ -93,7 +93,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk,hidden",
                             "supports": "java:8",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "1.3"
                         },
@@ -113,7 +113,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk,hidden",
                             "supports": "java:8",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "1.4"
                         },
@@ -133,7 +133,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk,hidden",
                             "supports": "java:8",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "1.5"
                         },
@@ -153,7 +153,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk,hidden",
                             "supports": "java:8",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "1.6"
                         },
@@ -192,7 +192,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk,hidden",
                             "supports": "java:11",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "1.0"
                         },
@@ -231,7 +231,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk",
                             "supports": "java:8,java",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "8"
                         },
@@ -251,7 +251,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk",
                             "supports": "java:11,java",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "11"
                         },
@@ -271,7 +271,7 @@
                             "iconClass": "icon-rh-openjdk",
                             "tags": "builder,java,openjdk",
                             "supports": "java:11,java",
-                            "sampleRepo": "https://github.com/jboss-openshift/openshift-quickstarts",
+                            "sampleRepo": "https://github.com/deals4mano/openshift-quickstarts.git",
                             "sampleContextDir": "undertow-servlet",
                             "version": "latest"
                         },
